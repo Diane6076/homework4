@@ -1,19 +1,20 @@
 [href^="https"]{
     color: red;
 }
-  {
+ ul+p {
     font-size: 24px;
 }
-   {
+ div>h3  {
     color: pink;
 }
 #greycol{
     color: gray;
 }
-   {
-   color: red;
+
+h3>p {
+  color: red;
 }
-   {
+div~ p  {
     color: green;
 }
 .yellow{
