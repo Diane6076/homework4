@@ -1,0 +1,23 @@
+h2{
+    color: rgb(72, 162, 192);
+    text-shadow: 1px 3px coral;
+}
+.first{
+    border: 1px solid grey;
+}
+#item{
+    font-size: 30px;
+    font-style: oblique;
+}
+img[src]{
+    width: 400px;
+    height: 500px;
+}
+a{
+    font-size: 33px;
+    color: blueviolet;
+    text-decoration: none;
+}
+.ww{
+    background-color: darkmagenta;
+}
