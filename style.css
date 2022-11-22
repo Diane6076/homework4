@@ -4,19 +4,21 @@
  ul+p {
     font-size: 24px;
 }
- div>h3  {
+ div>h3:first-child  {
     color: pink;
 }
 #greycol{
     color: gray;
 }
 
-h3>p {
+div div p {
   color: red;
 }
+
+
 div~ p  {
     color: green;
 }
 .yellow{
     color: yellow;
-}
+} 
